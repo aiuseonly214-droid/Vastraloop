@@ -1,0 +1,6 @@
+{
+  "name": "Vastraloop",
+  "description": "Web & Mobile Rental Marketplace for Fancy, Festival & Occasion Wear in Nashik",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
